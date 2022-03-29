@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    margin-top: 100px;
+}
+
+.column {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.line {
+    margin-right: 50px;
+}
+
+#title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 770px;
+}
+
+#title h3{
+    margin-left: 390px;
+}
